@@ -15,8 +15,8 @@ N.B. This code was originally devleped for 2102.05044 and then was heavily edite
 # Classical studies
 
   jupyter notebook\
-  #go to lattice_qft/lattice_qft/examples/Day1Tutorial\
+  #go to lattice_qft/lattice_qft/examples/Day1Tutorial.ipynb\
   #should just run, but need to change sys.path.append(<path to QFT_Dev from current directory>)
 
 # Quantum runs
-
+  see lattice_qft/lattice_qft/examples/IBMQ.ipynb.
