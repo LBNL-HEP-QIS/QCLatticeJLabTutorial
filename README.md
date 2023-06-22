@@ -1,3 +1,5 @@
+N.B. This code was originally devleped for 2102.05044 and then was heavily edited/modernized by Plato Deliyannis and Clement Charles (current developer/maintainer).  This code is nearly complete, but it is not quite ready for v1.  Thank you for your patience and stay tuned for the v1 release of the code!  You will find it at https://github.com/LBNL-HEP-QIS.
+
 # Tools for Quantum Field Theory on a Lattice
 
 This code is compatible with Qiskit Version 0.39.5
