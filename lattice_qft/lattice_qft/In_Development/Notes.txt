@@ -1,0 +1,3 @@
+This directory contains files that are in developments and may contain 
+untested methods and objects. All elements in this directory are subject to change
+and may not be in official releases.

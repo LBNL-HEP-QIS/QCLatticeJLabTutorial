@@ -1,0 +1,8 @@
+gmpy2==2.1.5
+matplotlib==3.6.3
+numpy==1.24.1
+pytket==1.11.1
+qiskit==0.39.5
+qiskit_finance==0.3.4
+qiskit_ignis==0.6.0
+scipy==1.10.0

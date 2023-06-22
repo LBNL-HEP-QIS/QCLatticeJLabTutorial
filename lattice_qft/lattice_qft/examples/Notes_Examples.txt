@@ -1,0 +1,7 @@
+File/Directory                              Status
+-----------------------------------------------------------
+Complexity                                Incomplete
+KW_All_Plotting                           Incomplete
+Generating_Ground_States.ipynb            Working
+PaperPlotandCrossCheck.ipynb              Working up till QC testing
+Lattice_Code_Construction.ipynb           Tested on Previous Version
